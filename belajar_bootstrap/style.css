@@ -1,0 +1,5 @@
+.jumbotron{
+  background-image: url(../img/slider1.jpg);
+  background-size: cover;
+  text-align: center;
+}
